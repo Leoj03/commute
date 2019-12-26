@@ -1,4 +1,4 @@
 # commute
 The home of the commute News app
 
-commute is always to be styled as fully lowercase, even when starting a sentence.
+commute News is always to be styled as it is written here, even when starting a sentence.
