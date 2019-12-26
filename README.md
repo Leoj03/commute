@@ -1,2 +1,2 @@
 # commute
-The home of the Commute News app
+The home of the commute News app
