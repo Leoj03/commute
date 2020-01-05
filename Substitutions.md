@@ -12,9 +12,9 @@ Senator: Elf-lord
 
 Representative: Muggle
 
-Congress: Wizard's Council
+Congress: The Wizard's Council
 
-Election: Dance off
+Election: Dogfight
 
 Could not be reached for comment: Is guilty and everybody knows it
 
@@ -51,3 +51,14 @@ Vows to: Probably won't
 Years: Eons
 
 No indication: No way we knew that 
+
+Outer space: The Outer Rim
+
+Batman: A man dressed like a bat
+
+Keyboard: Leopard
+
+Drone: Pikachu
+
+Congressional leaders: Force ghosts
+
